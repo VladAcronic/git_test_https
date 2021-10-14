@@ -8,3 +8,12 @@ print ("file was modified under tracking")
 
 # also print some string:
 print ("string for presicion tracking diff")
+
+# добавим работу с классами
+import cls__fibo
+
+fibo_count = 40
+fibo_number = cls__fibo.Fibo (fibo_count)
+fibo_number.calculate_fibo_number ()
+print (fibo_number)
+
