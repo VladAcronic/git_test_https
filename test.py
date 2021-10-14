@@ -1,5 +1,2 @@
-
-# для заливки на Git
-
+# this a test file for checking GitHub reload files
 print ("Hello Git")
-# добавим изменения
